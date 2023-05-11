@@ -1,0 +1,35 @@
+@import "../../common/colors.css";
+
+.card-item{
+    cursor: pointer;
+    background: var(--secondary-color);
+    transition: all 0.3s;
+}
+.card-item:hover{
+    transition: all 0.3s;
+    transform: scale(1.1);
+
+}
+
+
+.card-top{
+    height: 200px;
+}
+
+.Poster-img{
+    height:100%;
+    width: 100%;
+}
+.card-bottom{
+    padding: 10px 0 0 10px;
+}
+.card-info{
+    color: var(--font-primary);
+}
+
+.Title{
+
+    font-size: 22px;
+    font-weight: 400px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,43 @@
+@import "../../common/colors.css";
+
+.header{
+    background-color: var(--secondary-color);
+    height: 72px;
+    display: flex;
+    padding: 0 30px;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 40px;
+    text-transform: uppercase;
+    color: var(--font-primary);
+}
+.search-bar{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.input-field{
+    font-size: 18px;
+    width: 100%;
+    padding: 5px 5px 5px 10px;
+    height: 38px;
+    outline: none;
+}
+
+.btn{
+    padding: 0px 8px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.search-form{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}
+.sign-in-logo{
+    height: 50px;
+    width: 50px;
+}
