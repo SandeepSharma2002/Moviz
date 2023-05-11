@@ -20,7 +20,7 @@ export default function Header() {
   }
   return (
     <div className="header">
-      <Link style={{textDecoration: 'none'}} to="/"><div className="logo">Moviz</div></Link>
+      <Link style={{textDecoration: 'none'}} to="/moviz"><div className="logo">Moviz</div></Link>
       <div className='search-bar'>
       <form onSubmit={submitHandler} className='search-form'>
         <input className=' '  type="text" value={term} placeholder='Search Movies or Shows' onChange={(e)=> setTerm(e.target.value)}/>

@@ -8,7 +8,7 @@ export default function PageNotFound() {
     <div className="page">
       Page Not Found
     </div>
-    <Link to='/'>
+    <Link to='/moviz'>
     <button className='Go-back'><span>Go Back</span></button>
     </Link>
     </div>
