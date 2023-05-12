@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moviz/static/css/main.c93fb176.css",
-    "main.js": "/moviz/static/js/main.51464605.js",
-    "static/media/MOVIZ.png": "/moviz/static/media/MOVIZ.3695dc103bfb5af74ddd.png",
+    "main.css": "/moviz/static/css/main.f6a10096.css",
+    "main.js": "/moviz/static/js/main.6280570d.js",
+    "static/media/favicon.png": "/moviz/static/media/favicon.3695dc103bfb5af74ddd.png",
     "static/media/User.webp": "/moviz/static/media/User.22c284b1bfc02acd8ad3.webp",
     "index.html": "/moviz/index.html",
-    "main.c93fb176.css.map": "/moviz/static/css/main.c93fb176.css.map",
-    "main.51464605.js.map": "/moviz/static/js/main.51464605.js.map"
+    "main.f6a10096.css.map": "/moviz/static/css/main.f6a10096.css.map",
+    "main.6280570d.js.map": "/moviz/static/js/main.6280570d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c93fb176.css",
-    "static/js/main.51464605.js"
+    "static/css/main.f6a10096.css",
+    "static/js/main.6280570d.js"
   ]
 }
