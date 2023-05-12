@@ -14,8 +14,9 @@ function App() {
     <Header/>
     <div className='container'>
     <Routes>
-      <Route exact path='/moviz' exact element = {<Home/>}></Route>
-      <Route exact path='/movie/:imdbID' exact element = {<MovieDetail/>}></Route>
+      <Route  path='/'  element = {<Home/>}></Route>
+      <Route exact path='/moviz'  element = {<Home/>}></Route>
+      <Route exact path='/movie/:imdbID'  element = {<MovieDetail/>}></Route>
       <Route exact path= '*' element = {<PageNotFound/>}></Route>
       <Route exact path= '/login' element = {<LoginPage/>}></Route>
 
