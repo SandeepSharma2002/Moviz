@@ -127,7 +127,7 @@ span.auth-provider-text {
     background-size: 32px, 96px;
 }
 .auth-sprite.imdb-logo.retina {
-    background: url(../../../public/MOVIZ.png) no-repeat;
+    background: url(../../../public/favicon.png) no-repeat;
     background-size: contain;
     
 }
